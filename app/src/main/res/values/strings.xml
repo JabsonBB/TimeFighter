@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Time Fighter</string>
+    <string name="me_toque">Me Toque</string>
+    <string name="tempo_restante">Tempo restante: %s</string>
+    <string name="sua_pontuacao">Sua pontuação: %s</string>
+    <string name="mensagem_fim_jogo">O tempo acabou! Sua pontuação foi: %s</string>
+    <string name="reiniciar">reiniciar</string>
 </resources>
